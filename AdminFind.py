@@ -1,8 +1,7 @@
 #!/usr/bin/python
-# Tool: Admin Finder V1
-# Coder Name : Delfow H4x0R
-# Facebook : fb.com/delfow.hacker
-# Don't Change The Rights , Remember Not Tool Make A Hacker , A Hacker Make Tool ;)
+# Tool : AdminFinder
+# Coder : r00t#d4nZ
+# mencari login admin
 import urllib2,os,sys
 r00td4nZ = """\033[1;32m
 
@@ -15,7 +14,7 @@ r00td4nZ = """\033[1;32m
  /_/    \_\__,_|_| |_| |_|_|_| |_| |_|    |_|_| |_|\__,_|\___|_|
  ++++++++++++++++++++++++++++
  +                          +
- +Tools Mencari Admin login +     
+ +Tool Mencari Admin login  +     
  +coded by r00t#d4nZ        +
  +                          +
  ++++++++++++++++++++++++++++
