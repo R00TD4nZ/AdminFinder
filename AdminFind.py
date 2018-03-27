@@ -2,6 +2,7 @@
 # Tool : AdminFinder
 # Coder : r00t#d4nZ
 # mencari login admin
+# Author : r00t#d4nZ
 import urllib2,os,sys
 r00td4nZ = """\033[1;32m
 
@@ -13,10 +14,9 @@ r00td4nZ = """\033[1;32m
   / ____ \ (_| | | | | | | | | | | | |    | | | | | (_| |  __/ |   
  /_/    \_\__,_|_| |_| |_|_|_| |_| |_|    |_|_| |_|\__,_|\___|_|
  ++++++++++++++++++++++++++++
- +                          +
- +Tool Mencari Admin login  +     
+ +Mencari Admin login       +   
  +coded by r00t#d4nZ        +
- +                          +
+ +Team : CR45H FIGHTER TEAM +
  ++++++++++++++++++++++++++++
 \033[1;96m
 """
