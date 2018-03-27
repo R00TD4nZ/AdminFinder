@@ -21,7 +21,7 @@ r00td4nZ = """\033[1;32m
 \033[1;96m
 """
 print r00td4nZ
-site = raw_input("$@Masukkan Website>>$")
+site = raw_input("$> Masukkan url Website~# ")
 if "http://" not in site:
     site ="http://"+site
 admin = ['/admin/','/administrator/','/admin1/','/cms/','/admin2/','/admin3/','/admin4/','/admin5/','/usuarios/','/usuario/','/administrator/','/moderator/','/webadmin/','/adminarea/','/bb-admin/','/adminLogin/','/admin_area/','/panel-administracion/','/instadmin/',
