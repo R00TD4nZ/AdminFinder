@@ -1,6 +1,6 @@
 
 - Mencari Admin Login Website
-- Creator by r00t#d4nZ
+
 ------
 - Cara Install
 ```
@@ -10,3 +10,5 @@ $ chmod +x AdminFind.py
 $ python2 AdminFind.py http://target.co.li
 ```
 - CR45H FIGHTER TEAM
+- Creator code by r00t#d4nZ
+ 
